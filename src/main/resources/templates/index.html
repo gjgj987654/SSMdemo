@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/css/index.css" media="all">
+</head>
+<body style="background: url(/areas/<th:text="${test?.msg}">/images/bj.jpg) no-repeat center 20px;">
+<h1 th:text="${test?.msg}"></h1>
+</body>
+</html>

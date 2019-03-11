@@ -1,0 +1,32 @@
+Spring-Boot 10:41:55.202 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48)
+ com.chaoxing.BootApplication - Starting BootApplication on DESKTOP-0LEDE6H with PID 20612 (E:\workspace\SSMBaseFrame\target\classes started by gaojian in E:\workspace\SSMBaseFrame)
+Spring-Boot 10:41:55.205 [main] INFO  Caller+0	 at org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:597)
+ com.chaoxing.BootApplication - The following profiles are active: dev
+Spring-Boot 10:41:58.409 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57)
+ com.chaoxing.BootApplication - Started BootApplication in 3.702 seconds (JVM running for 4.433)
+Spring-Boot 10:41:58.410 [main] INFO  Caller+0	 at com.chaoxing.BootApplication.main(BootApplication.java:32)
+ com.chaoxing.BootApplication - BootApplication use profile:dev
+Spring-Boot 10:42:13.019 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48)
+ com.chaoxing.BootApplication - Starting BootApplication on DESKTOP-0LEDE6H with PID 1344 (E:\workspace\SSMBaseFrame\target\classes started by gaojian in E:\workspace\SSMBaseFrame)
+Spring-Boot 10:42:13.021 [main] INFO  Caller+0	 at org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:597)
+ com.chaoxing.BootApplication - The following profiles are active: dev
+Spring-Boot 10:42:15.587 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57)
+ com.chaoxing.BootApplication - Started BootApplication in 3.058 seconds (JVM running for 3.768)
+Spring-Boot 10:42:15.587 [main] INFO  Caller+0	 at com.chaoxing.BootApplication.main(BootApplication.java:32)
+ com.chaoxing.BootApplication - BootApplication use profile:dev
+Spring-Boot 10:56:44.503 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48)
+ com.chaoxing.BootApplication - Starting BootApplication on DESKTOP-0LEDE6H with PID 19500 (E:\workspace\SSMBaseFrame\target\classes started by gaojian in E:\workspace\SSMBaseFrame)
+Spring-Boot 10:56:44.507 [main] INFO  Caller+0	 at org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:597)
+ com.chaoxing.BootApplication - The following profiles are active: dev
+Spring-Boot 10:56:47.243 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57)
+ com.chaoxing.BootApplication - Started BootApplication in 3.263 seconds (JVM running for 3.96)
+Spring-Boot 10:56:47.244 [main] INFO  Caller+0	 at com.chaoxing.BootApplication.main(BootApplication.java:32)
+ com.chaoxing.BootApplication - BootApplication use profile:dev
+Spring-Boot 10:57:08.010 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:48)
+ com.chaoxing.BootApplication - Starting BootApplication on DESKTOP-0LEDE6H with PID 12356 (E:\workspace\SSMBaseFrame\target\classes started by gaojian in E:\workspace\SSMBaseFrame)
+Spring-Boot 10:57:08.015 [main] INFO  Caller+0	 at org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:597)
+ com.chaoxing.BootApplication - The following profiles are active: dev
+Spring-Boot 10:57:10.749 [main] INFO  Caller+0	 at org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:57)
+ com.chaoxing.BootApplication - Started BootApplication in 3.326 seconds (JVM running for 4.341)
+Spring-Boot 10:57:10.750 [main] INFO  Caller+0	 at com.chaoxing.BootApplication.main(BootApplication.java:32)
+ com.chaoxing.BootApplication - BootApplication use profile:dev
